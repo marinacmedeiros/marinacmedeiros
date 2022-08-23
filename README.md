@@ -1,8 +1,7 @@
 ## Oiee, me chamo Marina :vulcan_salute: !! 
 
 <div align="justify"> 
-Sou advogada e sempre tive paixão pela tecnologia! Recentemente em formação em Desenvolvimento Web, com foco em Front End.
-Atualmente faço parte da turma XP#39 de desenvolvimento fullstack da Gama Academy. Então aqui exponho projetos de cursos, trabalhos e outros em paralelo.
+Sempre fui apaixonada por tecnologia e resolvi migrar para a área. Atualmente faço Engenharia de Software na 42 School de São Paulo. Aqui exponho projetos de cursos trabalhos e outros em paralelo.
 </div>
 
 ## 
