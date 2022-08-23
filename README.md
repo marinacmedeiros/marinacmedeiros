@@ -1,7 +1,7 @@
 ## Oiee, me chamo Marina :vulcan_salute: !! 
 
 <div align="justify"> 
-Sempre fui apaixonada por tecnologia e resolvi migrar para a área. Atualmente faço Engenharia de Software na 42 School de São Paulo. Aqui exponho projetos de cursos trabalhos e outros em paralelo.
+Sou uma nerd muito curiosa que sempre foi apaixonada por tecnologias. Atualmente resolvi migrar de área e faço Engenharia de Software na 42 School de São Paulo. Aqui exponho projetos de cursos trabalhos e outros em paralelo.
 </div>
 
 ## 
