@@ -1,7 +1,7 @@
-## Hello There :vulcan_salute:! It's me, Marina!!
+## Hello There :vulcan_salute:!
 
 <div align="justify"> 
-I'm a nerd who always loved tecnology, that happens to be a lawyer too. Currently I'm a Software Student at the 42 School in São Paulo. Here I show some projects from school, works and etc.
+I'm a nerd who always loved tecnology, that used to be a lawyer too. Currently I'm studying Software Analysis and Development and working as a Software Developer at Roverpix. Here I show some projects from school, works and etc.
 </div>
 
 ## 
