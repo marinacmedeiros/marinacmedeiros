@@ -1,7 +1,7 @@
 ## Hello There :vulcan_salute:!
 
 <div align="justify"> 
-I'm a nerd who always loved tecnology and used to be a lawyer too. Currently I'm working as a Software Developer at Roverpix and studying Software Analysis and Development. Here I show some projects from school, works and etc.
+I'm a software developer who loves to create visually appealing and user-friendly websites with HTML, CSS, JavaScript, TypeScript, and React. Skilled in Python for development and data manipulation using SQL and PostgreSQL for database management. Currently, I am pursuing a software analysis and development degree, where I am expanding my knowledge and skills in information technology. I am a dedicated team player who values collaboration and communication, and I am excited about contributing to innovative projects in the ever-evolving world of development.
 </div>
 
 ## 
@@ -33,8 +33,7 @@ I'm a nerd who always loved tecnology and used to be a lawyer too. Currently I'm
  </div>
     
 ## 📲 Contacts
-<div> 
-<a href="mailto:marinacmwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
 <a href="https://www.linkedin.com/in/marina-medeiros-6b9543213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   
